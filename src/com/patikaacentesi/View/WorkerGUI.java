@@ -15,8 +15,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-// TODO: 5.11.2023 README EKLENECEK 
-
 // DEĞERLENDİRME FORMU 5
 public class WorkerGUI extends JFrame {
     // DEĞERLENDİRME FORMU 1

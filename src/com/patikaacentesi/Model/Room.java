@@ -146,8 +146,6 @@ public class Room {
         }
         return true;
     }
-
-    // TODO: 3.11.2023 metoda tarih ile arama getirilecek
     public static String shQuery(String searchInput, String checkInDate, String checkOutDate) {
         String query = "SELECT * FROM room AS r " +
                 "INNER JOIN hotels AS h " +

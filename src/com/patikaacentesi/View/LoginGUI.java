@@ -27,6 +27,7 @@ public class LoginGUI extends JFrame{
 
 
 
+        // DEĞERLENDİRME FORMU 7
         // DEĞERLENDİRME FORMU 8
         btn_login.addActionListener(new ActionListener() {
             @Override

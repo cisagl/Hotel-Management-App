@@ -35,7 +35,6 @@ public class AddRoomFeaturesGUI extends JFrame{
         btn_add_roomFeatures.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
                 if (cb_room_tv.isSelected() == false &&
                         cb_room_minibar.isSelected() == false &&
                         cb_room_console.isSelected() == false &&
