@@ -38,7 +38,7 @@ Ardından üye bilgileri ile programa giriş yapılarak çalışan eklenebilir.
 
 Eklenen çalışan ile otel, oda ve rezervasyon işlemlerinin tamamı yapılabilir.
 
-Girilen müşteri(Yetişkin ya da çocuk), müşteri sayısı ve müşterinin kalacağı gün sayısı kadar fiyat hesaplaması otomatik olarak yapılmaktadır.
+Girilen müşteri(yetişkin ya da çocuk), müşteri sayısı ve müşterinin kalacağı gün sayısı kadar fiyat hesaplaması otomatik olarak yapılmaktadır.
 
 ## İletişim
 
