@@ -42,6 +42,6 @@ Girilen müşteri(yetişkin ya da çocuk), müşteri sayısı ve müşterinin ka
 
 ## İletişim
 
-Eğer proje ile ilgili bir sorun iletmek ya da geri bildirim vermek isterseniz aşağıdaki mail adresinden proje sahibine ulaşabilirsiniz:
+Eğer proje ile ilgili bir sorun iletmek ya da geri bildirim vermek isterseniz aşağıdaki adresten proje sahibine ulaşabilirsiniz:
 
-- isaoglucahit@gmail.com
+[Github](https://github.com/cisagl)
